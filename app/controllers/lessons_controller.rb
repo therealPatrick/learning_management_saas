@@ -34,6 +34,7 @@ class LessonsController < ApplicationController
     end
   end
 
+
   # PATCH/PUT /lessons/1 or /lessons/1.json
   def update
     respond_to do |format|
